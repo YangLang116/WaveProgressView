@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="circleWaveProgressView">
+        <attr name="backgroundDrawable" format="reference" />
+        <attr name="backgroundColor" format="color|reference" />
+        <attr name="circleRingWidth" format="dimension|reference" />
+        <attr name="circleRingColor" format="color|reference" />
+        <attr name="waveColor" format="color|reference" />
+        <attr name="waveMaxNum" format="integer" />
+        <attr name="waveNumRange" format="integer"/>
+        <attr name="waveHeight" format = "dimension|reference"/>
+        <attr name="waveHeightRange" format="dimension|reference"/>
+        <attr name="waveProgress" format="float"/>
+        <attr name="contentText" format="string|reference" />
+        <attr name="contentTextSize" format="dimension|reference" />
+        <attr name="contentTextColor" format="color|reference" />
+        <attr name="contentTextPaddinng" format="dimension|reference"/>
+    </declare-styleable>
+
+</resources>
