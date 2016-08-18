@@ -21,7 +21,7 @@
 
 ##控件应用示例
 > ####样例中，有关颜色的调整，只做了RGB其中一个通道修改的演示。
-![image](http://119.29.119.42/android/waveprogressview.gif)
+![image](https://github.com/1004145468/WaveProgressView/blob/master/ScreenGif.gif)
 
 ##使用指南
 >#### WaveProgressView的属性修改和获取的格式为：
